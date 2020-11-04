@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "287981197621",
+    "firebase_url": "https://agendavirtual-c4401.firebaseio.com",
+    "project_id": "agendavirtual-c4401",
+    "storage_bucket": "agendavirtual-c4401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287981197621:android:cca6ca2c343e412f56547c",
+        "android_client_info": {
+          "package_name": "com.example.agendavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287981197621-ccd52hbqiqsjufbokdq35jdkiusa98n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agendavirtual",
+            "certificate_hash": "b41a6dcb4954786114cb23e77115def69e16ebdd"
+          }
+        },
+        {
+          "client_id": "287981197621-1f5lt3huvf14jroqsftl29sbl18upjqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ-GEcZd9wbN2-R-RhlLjsNDbh0r3ccys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287981197621-1f5lt3huvf14jroqsftl29sbl18upjqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
